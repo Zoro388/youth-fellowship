@@ -111,7 +111,7 @@ const Blog = () => {
       <PageHeader 
         title="Blog" 
         description="Insights, reflections, and updates from our fellowship."
-        backgroundImage="https://images.pexels.com/photos/2662793/pexels-photo-2662793.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        // backgroundImage="https://images.pexels.com/photos/2662793/pexels-photo-2662793.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
       />
 
       <section className="section bg-white">
