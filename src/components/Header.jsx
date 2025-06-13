@@ -79,6 +79,14 @@ function Header() {
               About
             </NavLink>
             <NavLink 
+              to="/methodisim" 
+              className={({ isActive }) => 
+                `font-medium hover:text-primary-600 transition-colors ${isActive ? 'text-primary-700' : 'text-neutral-700'}`
+              }
+            >
+              Methodisim
+            </NavLink>
+            <NavLink 
               to="/events" 
               className={({ isActive }) => 
                 `font-medium hover:text-primary-600 transition-colors ${isActive ? 'text-primary-700' : 'text-neutral-700'}`

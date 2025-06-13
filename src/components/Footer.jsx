@@ -48,6 +48,11 @@ function Footer() {
                 </Link>
               </li>
               <li>
+                <Link to="/methodisim" className="text-neutral-200 hover:text-white transition-colors">
+                  Methodisim
+                </Link>
+              </li>
+              <li>
                 <Link to="/events" className="text-neutral-200 hover:text-white transition-colors">
                   Events
                 </Link>
